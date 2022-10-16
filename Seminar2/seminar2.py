@@ -81,6 +81,7 @@
 # Задача 4. Найдите все числа до 10000, у которых
 # количество делителей равно 10
 
+
 # def check_number(n):
 
 #     divigers = list()
@@ -94,11 +95,11 @@
     
 #     numbers = list()
 #     for i in range(1, 10001):
-#         if list(i) :
+#         if check_number(i):
 #             numbers.append(i)
 #     return numbers
 
-# print(*find_numbers())
+# print(find_numbers())
 
 
 
