@@ -88,7 +88,7 @@ print(shop1.intersection(shop2).intersection(shop3))
 
 import random
 
-numbers = [random.randint(1, 10) for i in range(8)]
+numbers = [random.randint(1, 10) for i in range(15)]
 print(numbers)
 
 for i in range(len(numbers) - 1):
